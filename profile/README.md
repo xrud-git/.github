@@ -1,4 +1,3 @@
-<sup>[ver_la English] [ver 0.4] [na r7zh92fhzwl7embmamirmriw3fzecoiz] </sup>
 
 Public resources
 * [Content](https://github.com/xrud-git)
@@ -7,3 +6,5 @@ Public resources
 * [Project info](https://xrud.fandom.com/wiki/Xrud)
 
 [Donate](https://xrud-git.github.io/donate/#)
+
+<sup>[ver_la English] [ver 0.4] [na r7zh92fhzwl7embmamirmriw3fzecoiz]</sup>
