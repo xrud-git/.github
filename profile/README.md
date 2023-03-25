@@ -1,6 +1,3 @@
-
-# Xrud project
-
 <sup>[ver_la English] [ver 0.4] [na r7zh92fhzwl7embmamirmriw3fzecoiz] </sup>
 
 Public resources
