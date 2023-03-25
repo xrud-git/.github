@@ -1,11 +1,7 @@
 
-<div align=center><h3><b>
-Xrud project
-</b></h3><b>
-[r7zh92fhzwl7embmamirmriw3fzecoiz] [ver 0.4]
+# Xrud project
 
-[English]
-</b></div>
+<sup>[ver_la English] [ver 0.4] [na r7zh92fhzwl7embmamirmriw3fzecoiz] </sup>
 
 Public resources
 * [Content](https://github.com/xrud-git)
